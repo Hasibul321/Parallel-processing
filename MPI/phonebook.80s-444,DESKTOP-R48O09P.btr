@@ -1,7 +1,0 @@
-
-phonebook:444 terminated with signal 11 at PC=7f6fe191a148 SP=7ffdf93b7508.  Backtrace:
-/lib/x86_64-linux-gnu/libstdc++.so.6(_ZNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEC2ERKS4_+0x8)[0x7f6fe191a148]
-./phonebook(+0x32f5)[0x557de2aef2f5]
-/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7f6fe15abd90]
-/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7f6fe15abe40]
-./phonebook(+0x26e5)[0x557de2aee6e5]
